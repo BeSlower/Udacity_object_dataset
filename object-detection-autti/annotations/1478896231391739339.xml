@@ -1,0 +1,56 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>1478896231391739339.jpg</filename>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>Udacity_object_dataset_2</image>
+    <flickerid>0000000000</flickerid>
+  </source>
+  <owner>
+    <flickerid>GO BLUE</flickerid>
+    <name>UMD_ISL</name>
+  </owner>
+  <size>
+    <width>1920</width>
+    <height>1200</height>
+    <depth>3</depth>
+  </size>
+  <segmentation>0</segmentation>
+  <object>
+    <name>biker</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>132</xmin>
+      <ymin>600</ymin>
+      <xmax>168</xmax>
+      <ymax>706</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>biker</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>140</xmin>
+      <ymin>618</ymin>
+      <xmax>166</xmax>
+      <ymax>694</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>biker</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>182</xmin>
+      <ymin>618</ymin>
+      <xmax>218</xmax>
+      <ymax>716</ymax>
+    </bndbox>
+  </object>
+</annotation>
